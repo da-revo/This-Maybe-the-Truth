@@ -1,7 +1,7 @@
 
 # This ~~is~~ _Maybe_ the Truth
 
-[cover]: cover.jpg "cover"
+![cover](cover.jpg)
 
 ## Introduction
 
@@ -18,7 +18,7 @@
 * Why you can't trust your senses
 * On Dogmatism
 * Perspectivism Statement:
-  * "One can never know the absolute truth and even if one does, they can never prove it."
+  * "One can never know the absolute truth. Even if one does, they can never prove it."
   * The self-contradiction
   * Idea of the statement being a belief
 * Free Speech
