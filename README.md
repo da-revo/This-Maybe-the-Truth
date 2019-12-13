@@ -22,8 +22,8 @@
   * The self-contradiction
   * Idea of the statement being a belief
 * Free Speech
-* I think therefore I am
 * Logic and Reason
+* I think, therefore I am
 * The Scientific Method
 * Utilitarian View on Beliefs
 * How Perspectivism can benefit you
