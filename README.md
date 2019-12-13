@@ -10,11 +10,11 @@
 
 ## Chapters
 
- * Chapter 0: Identity
+ * [Chapter 0: Identity](Book/Chapter_0.md)
  * Why delve into Philosophy
+ * On Dogmatism
  * What is Truth
  * What is Knowledge
- * On Dogmatism
  * Why you can't trust your senses
  * Perspectivism Statement:
    * "One can never know the absolute truth and even if one does, they can never prove it."
@@ -27,7 +27,9 @@
  * Utilitarian View on Beliefs
  * How Perspectivism can benefit you
 
- Ideas by the Author, [da_Revo](https://medium.com/@da_revo) :
+## Brain Food
+
+ More ideas by the Author, [da_Revo](https://medium.com/@da_revo) :
 
  https://medium.com/screaming-into-the-void
  
