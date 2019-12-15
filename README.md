@@ -18,7 +18,7 @@
 * Why you can't trust your senses
 * On Dogmatism
 * Perspectivism Statement:
-  * "One can never know the absolute truth. Even if one does, they can never prove it."
+  * "One can never know any absolute truth. Even if one does, they can never prove it."
   * The self-contradiction
   * Idea of the statement being a belief
 * Free Speech
