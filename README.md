@@ -7,7 +7,7 @@
 
  Perspectivism is a philosophical framework for evaluating beliefs when no absolute truth can be known.
 
- This Maybe the Truth is a collection of chapters ( or book ) explaining the core assumption of Perspectivism, why you should adopt it and how to handle the implications and complications it presents.
+ This Maybe the Truth is a collection of chapters explaining the core assumption of Perspectivism, why you should adopt it and how to handle the implications and complications it presents.
 
 ## Chapters
 
